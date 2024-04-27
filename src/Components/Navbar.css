@@ -1,0 +1,9 @@
+.navbar-nav .nav-item:hover {
+    background-color: #757171; /* Change to your desired highlight color */
+    color: #fff; /* Change to your desired text color */
+  }
+  .container-fluid .navbar-brand:hover{
+    background-color: #757171; /* Change to your desired highlight color */
+    color: #fff; /* Change to your desired text color */
+  }
+  
